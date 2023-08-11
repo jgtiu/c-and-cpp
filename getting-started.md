@@ -21,3 +21,5 @@ Follow these guides as is:
 - **Run VS Code in WSL**
 - **Add a source code file**
 - **Explore IntelliSense**
+- **Run helloworld.cpp**
+
