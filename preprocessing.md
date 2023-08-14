@@ -19,7 +19,7 @@ The first two lines are `include` **directives**
 - are directives to the preprocessor portion of the compiler
 - tell the preprocessor to literally include the contents of the named file at that point in the program source, before passing it on to the later steps of the compilation process
 
-![compilation-process](compilation-process.png)
+![compilation-process](images/compilation-process.png)
 
 These `#include` directives name the file to be included in angle brackets (`<>`) because that file is one of the standard C header files.
 
