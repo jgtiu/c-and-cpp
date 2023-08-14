@@ -49,4 +49,6 @@ rect_t intersection(rect_t r1, rect_t r2) {
 ```
 
 # Meta
-I wrote this in Markdown because this C code won't run without some code to make it compile.
+- I wrote this in Markdown because this C code won't run without some code to make it compile.
+
+- Reference: Coursera. Writing, Running, and Fixing Code in C. Week 1. Step 5. Reading: Completed Rectangle Intersection Code.
