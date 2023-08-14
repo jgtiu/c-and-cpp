@@ -1,7 +1,10 @@
 File names look like this: `myProgram.c`
 
 Execute this command to compile code: `gcc myProgram.c`
+
 OR execute this (I don't know what these arguments mean yet): `gcc -Wall -o hello hello.c`
+
+OR this (very picky about writing good code) `gcc -o hello -Wall -Werror -pedantic -std=gnu99 hello.c`
 
 Assuming that there are no errors in your code, the compiler would produce an executable program called `a.out`.
 
